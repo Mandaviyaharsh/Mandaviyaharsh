@@ -1,20 +1,4 @@
 
-
-<!--
-**Mandaviyaharsh/Mandaviyaharsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi , I'm Harsh Mandaviya  <img width="40" height="40" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"</h1>
 <h3 align="center">A passionate student from Dr. Subhash University , Juunagadh, India</h3>
 <br>
@@ -32,6 +16,6 @@ Here are some ideas to get you started:
 
 <a href="https://in.linkedin.com/in/harsh-mandaviya-23268426a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/harsh_mandaviya_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
-
+</p>
 
 
